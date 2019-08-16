@@ -1,1 +1,1 @@
-![Image of Yaktocat](C:\GitHub Course\markdown-portfolio\images\yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
